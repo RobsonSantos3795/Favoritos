@@ -2,7 +2,7 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     background-image: linear-gradient(to bottom, #52aebe 0%, #81db4d 100%);
-    padding: 15px;
+    padding: 15px 15px;
     border-radius: 12px;
     display: inline-block;
 }

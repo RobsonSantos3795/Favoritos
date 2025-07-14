@@ -1,0 +1,49 @@
+.container {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to bottom, #52aebe 0%, #81db4d 100%);
+    padding: 15px;
+    border-radius: 12px;
+    display: inline-block;
+}
+body {
+    text-align: center;
+    background: #f1f1ba;
+}
+#bt1 {
+    background: yellow;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#bt2 {
+    background: yellow;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#bt3 {
+    background: yellow;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#bt4 {
+    background: yellow;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#bt5 {
+    background: yellow;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+select {
+    border-radius: 7px;
+    background: orange;
+    padding: 1px;
+    font-size: 18px;
+    cursor: pointer;
+}
